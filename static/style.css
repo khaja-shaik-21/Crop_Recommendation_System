@@ -8,7 +8,7 @@ body {
     font-family: 'Georgia', serif;
     background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     min-height: 100vh;
-    padding: clamp(10px, 2vw, 20px);
+    /* padding: clamp(10px, 2vw, 20px); */
     padding-bottom: 0;
 }
 

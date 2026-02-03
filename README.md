@@ -95,10 +95,7 @@ The system uses ML models trained on agricultural data to predict suitable crops
 ## 📸 Project Screenshots
 
 ### 🏠 Home Page
-![Home Page](static/images/home_page.png)
-
-### 🔐 Crop Recommendation Page
-![Crop Recommendation Page](static/images/crop_recommendation.png)
+![Web Page](static/images/Web-page.png)
 
 
 ## Contributing
