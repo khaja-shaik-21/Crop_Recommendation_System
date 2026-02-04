@@ -45,7 +45,7 @@ An intelligent crop recommendation system that uses Machine Learning to suggest 
 
 - **Frontend**: [Deployed on Render]
 - **Backend API**: [Deployed on Render]
-- **Link**: https://crop-recommendation-system-frontend-16dg.onrender.com/
+- **Link**: https://crop-recommendation-system-hc9x.onrender.com/
 
 ## Local Development
 To run the project locally, follow these steps:
